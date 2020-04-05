@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://pfelipm.github.io/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://pfelipm.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/autoslides-paneles-informativos-con-presentaciones-de-google/</loc>
+<lastmod>2020-03-09T20:54:53+01:00</lastmod>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/9/5e5446a5bb8d967766ff35c7_84745.png</image:loc>
+<image:title><![CDATA[Logo autoslides]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/9/74886315-11eac180-5378-11ea-83b6-f4659f8afa2e.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/9/75166223-d9563980-5723-11ea-9108-de683a6fff99.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/9/74886543-bbca4e00-5378-11ea-9ba0-260ba7d0fe74.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/9/74886759-5165dd80-5379-11ea-8a62-5f3192c130a9.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/hdcplus/</loc>
+<lastmod>2020-03-09T21:17:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/importadorplus/</loc>
+<lastmod>2020-03-09T21:17:22+01:00</lastmod>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/3/71702547-57572d80-2dd0-11ea-9718-d74bc4ba6bb9.gif</image:loc>
+<image:title><![CDATA[Importador++ en acción]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/mi-actividad/</loc>
+<lastmod>2020-03-10T11:46:05+01:00</lastmod>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/5/IMG_20190516_220738.jpg</image:loc>
+<image:title><![CDATA[Taller GEG Valencia 2019]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/micro-comparativa-de-4-apps-de-grabacion-de-pantalla/</loc>
+<lastmod>2020-03-09T23:51:30+01:00</lastmod>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/page/2/</loc>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/politica-de-privacidad/</loc>
+<lastmod>2020-03-10T11:46:39+01:00</lastmod>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/6/matthew-henry-fPxOowbR6ls-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/recogecv/</loc>
+<lastmod>2020-03-09T21:17:09+01:00</lastmod>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/2/sHdK19L2WzEOJOXygjEFvEA-1.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/sobre-mi/</loc>
+<lastmod>2020-03-10T11:45:54+01:00</lastmod>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/4/IMG_20170821_160329.jpg</image:loc>
+<image:title><![CDATA[Yo mismo, con el Maestrazgo de Castellón de fondo.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/4/GCE_Badges_01.png</image:loc>
+<image:title><![CDATA[GCE 1]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/4/GCE_Badges_02.png</image:loc>
+<image:title><![CDATA[GCE 1]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/4/GEG-Spain-logo-horizontal.png</image:loc>
+<image:title><![CDATA[Logo GEG Spain]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pfelipm.github.io/blog/media/posts/4/gd_experts_lockup_horizontal_color.png</image:loc>
+<image:title><![CDATA[GDE program logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pfelipm.github.io/blog/ya-soy-un-gde/</loc>
+<lastmod>2020-03-09T20:22:40+01:00</lastmod>
+</url>
+</urlset>
